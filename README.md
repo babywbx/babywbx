@@ -14,22 +14,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 ABOUT ME
 
-```yaml
-name: Babywbx
-location: New York, NY 🗽
-website: wbx1.com
-interests:
-  - Cloud Infrastructure
-  - Network Engineering
-  - Open Source
-currently: Building cool stuff @ wbx1
-```
+- 📍 Based in **New York, NY**
+- 🌐 Building cool stuff @ [**wbx1**](https://wbx1.com)
+- 🔧 Into **Cloud Infrastructure** / **Network Engineering** / **Open Source**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ TECH STACK
 
 <div align="center">
 
@@ -44,22 +37,7 @@ currently: Building cool stuff @ wbx1
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babywbx&theme=radical" style="border-radius: 10px;" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babywbx&theme=radical" style="border-radius: 10px;" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=babywbx&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=FF79C6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" style="border-radius: 10px;" />
-
-</div>
-
----
-
-### 🌐 Connect with Me
+### 🌐 CONNECT WITH ME
 
 <div align="center">
 
