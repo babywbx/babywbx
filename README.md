@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Babywbx;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Babywbx;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <br/>
 
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=80&section=footer" width="100%" style="border-radius: 10px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=80&section=footer" width="100%" />
 
 </div>
