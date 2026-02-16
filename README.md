@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/wbx1.org-FF79C6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wbx1.org)
+[![Website](https://img.shields.io/badge/wbx1.com-FF79C6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wbx1.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babywbx)
 
 </div>
